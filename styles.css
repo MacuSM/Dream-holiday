@@ -10,7 +10,21 @@ body{
   position: relative;
 }
 
+/*.logo {
+  width: 250px;
+  height: 100px;
+  position: absolute;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  visibility: visible;
+}*/
 
+.logo img{
+  width: 80px;
+}
 
 .sidebar {
   width: 250px;
