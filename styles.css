@@ -10,7 +10,7 @@ body{
   position: relative;
 }
 
-.logo {
+/*.logo {
   width: 250px;
   height: 100px;
   position: absolute;
@@ -19,7 +19,7 @@ body{
   justify-content: center;
   align-items: center;
   z-index: 2;/*To clear out logo from the side-bar*/
-}
+}*/
 
 .logo img{
   width: 80px;
